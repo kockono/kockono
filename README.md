@@ -7,7 +7,7 @@
 - 🌱 En estos momentos me encuentro estudiando un poco de todo, en especial cyberseguridad :lock:
 - 👯 Me encuentro trabajando para And&Jon
 - 🥅 2021 Logros: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
-- :video_game: Hobbies tengo los videojuegos
+- :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica
 
 ### Contactame
 
