@@ -5,7 +5,7 @@
 ## Soy una persona apasionada en el mundo de la programación!!
 
 - 🌱 En estos momentos me encuentro estudiando un poco de todo, en especial cyberseguridad :lock:
-- 👯 En estos momentos me encuentro trabajando para And&Jon
+- 👯 Me encuentro trabajando para And&Jon
 - 🥅 2021 Logros: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java  a Angular/.Net/PostgreSql
 - :video_game: Hobbies tengo los videojuegos
 
