@@ -40,7 +40,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Kali" width="26px" src="https://img.icons8.com/color/452/kali-linux.png " />
+<img align="left" alt="Kali" width="26px" src="https://e7.pngegg.com/pngimages/790/365/png-clipart-gray-dragon-kali-linux-backtrack-penetration-test-offensive-security-certified-professional-linux-branch-logo.png" />
 
 
 <br />
