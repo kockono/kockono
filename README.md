@@ -47,3 +47,11 @@
 
 [website]: Construcción
 [linkedin]: https://www.linkedin.com/in/chris-marquez-cobos
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kockono&column=7"/>
+
+<div>
+    <img align="left" alt="kockono's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=kockono&count_private=true&show_icons=true&hide_border=true"/>
+    <img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kockono&layout=compact&hide_border=true"/>
+</div>
