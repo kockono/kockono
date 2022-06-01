@@ -32,7 +32,7 @@
 <img align="left" alt="PostgresSql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
-
+<img align="left" alt="FireBase" width="30px" src="https://miro.medium.com/max/400/1*JktK87FL_sqDDnuxHxe6Fw.png" />
 <br />
 
 ### Tools libreries and other stuff
