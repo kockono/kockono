@@ -4,8 +4,6 @@
 
 ## Soy una persona apasionada en el mundo de la programación!!
 
-🌱 En estos momentos me encuentro estudiando un poco de todo, en especial Ruby on Rails :lock: <br />
-
 - **Achievements**
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
