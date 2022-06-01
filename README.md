@@ -24,14 +24,14 @@
 
 ### Mobile
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png"/>
-<img align="left" alt="Flutter" width="32px" src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon-150x150.png"/>
+<img align="left" alt="Ionic" width="32px" src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon-150x150.png"/>
 
 <br />
 
 ### Database
 <img align="left" alt="PostgresSql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
 
 <br />
 
