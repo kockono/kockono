@@ -40,8 +40,13 @@
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LiqzTNjYxCLe0nwHGaUEefYZa_OVHpoCKO9_l2zVJoTv21grfDk-ZwFRq4NTzhYMHqU&usqp=CAU" />
+<img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
+<img align="left" alt="Cypress" width="26x" src="https://nx.dev/documentation/shared/jest-logo.png" />
+<img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
+<img align="left" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
+
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
 <br />
 
