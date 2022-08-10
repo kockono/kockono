@@ -49,9 +49,9 @@
 
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
 
-<a href="https://github.com/search?q=user%kockono+language%3Abash"><img alt="Bash" height="30px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="https://github.com/search?q=user%kockono+language%3Abash"><img alt="Bash" height="28px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <br />
-<a href="#"><img alt="Postman"  height="30px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Postman"  height="28px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
 
 <br />
