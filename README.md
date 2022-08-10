@@ -24,12 +24,15 @@
 
 ### Mobile
 <a href="#"><img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-<img align="left" alt="Ionic" width="32px" src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon-150x150.png"/>
+<a href="#"><img alt="Ionic" height="27px" src="https://img.shields.io/badge/Ionic-02569B.svg?logo=ionic&logoColor=white"></a>
 
 <br />
 
 ### Database
-<img align="left" alt="PostgresSql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"/>
+<a href="#"><img alt="PostgreSQL" height="27px" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="FireBase" height="27px" src="https://img.shields.io/badge/FireBase-316192.svg?logo=firebase&logoColor=yellow"></a>
+<a href="#"><img alt="MySql" height="27px" src="https://img.shields.io/badge/MySql-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MongoDb" height="27px" src="https://img.shields.io/badge/MongoDb-432.svg?logo=mongodb&logoColor=green"></a>
 <img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="FireBase" width="30px" src="https://miro.medium.com/max/400/1*JktK87FL_sqDDnuxHxe6Fw.png" />
