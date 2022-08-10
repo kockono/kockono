@@ -48,10 +48,10 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
-<img align="left" alt="bat" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<br />
 
+<a href="https://github.com/search?q=user%kockono+language%3Abash"><img alt="Bash" height="34px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<br />
+<a href="#"><img alt="Postman"  height="34px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
 
 <br />
