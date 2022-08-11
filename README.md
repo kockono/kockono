@@ -49,7 +49,7 @@
 
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
 <img align="left" alt="bat" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
-<img align="left" alt="bash" width="60px"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <br />
 
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
