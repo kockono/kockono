@@ -19,8 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img align="left" alt="bat" width="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
-<img align="left" alt="bash" width="26px" src="https://img2.freepng.es/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" />
+
 <br />
 
 ### Mobile
@@ -49,6 +48,8 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
+<img align="left" alt="bat" width="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
+<img align="left" alt="bash" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />
 <br />
 
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
