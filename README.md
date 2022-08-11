@@ -20,7 +20,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="bat" width="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
-<img align="left" alt="bash" width="26px" src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png" />
+<img align="left" alt="bash" width="26px" src="https://img2.freepng.es/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" />
 <br />
 
 ### Mobile
