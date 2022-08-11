@@ -19,7 +19,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-
+<img align="left" alt="bat" width="26px" src="https://cdn-icons-png.flaticon.com/512/5199/5199981.png" />
+<img align="left" alt="bash" width="26px" src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png" />
 <br />
 
 ### Mobile
