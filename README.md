@@ -31,7 +31,6 @@
 ### Database
 <a href="#"><img alt="PostgreSQL" height="27px" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="FireBase" height="27px" src="https://img.shields.io/badge/FireBase-316192.svg?logo=firebase&logoColor=yellow"></a>
-<a href="#"><img alt="MySql" height="27px" src="https://img.shields.io/badge/MySql-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MongoDb" height="27px" src="https://img.shields.io/badge/MongoDb-432.svg?logo=mongodb&logoColor=green"></a>
 <img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
