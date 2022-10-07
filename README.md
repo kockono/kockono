@@ -43,7 +43,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
-<img align="left" alt="Cypress" width="26x" src="https://nx.dev/documentation/shared/jest-logo.png" />
+
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
 <img align="left" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
 
