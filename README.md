@@ -9,7 +9,7 @@
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - :fire: My LeetCode:  https://leetcode.com/kockono/
 - :video_game: Hobbies: Make Clean Things, Games, Meditation, Listening Music
-
+- 🛠: Me encuentro trabajando en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore https://github.com/stars/kockono/lists/architecture-clean 
 ### Back-end Front-end and Frameworks
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
