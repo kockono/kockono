@@ -8,7 +8,7 @@
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - :fire: My LeetCode:  https://leetcode.com/kockono/
-- :video_game: Hobbies: Games, Meditation, Listening Music
+- :video_game: Hobbies: Make Clean Things, Games, Meditation, Listening Music
 
 ### Back-end Front-end and Frameworks
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
