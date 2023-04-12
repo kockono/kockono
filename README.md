@@ -7,7 +7,7 @@
 - **Achievements**
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
-- :fire: My LeetCode:  https://leetcode.com/kockono/ . Problems Solved in this repo [Algoritmia](https://github.com/kockono/Algoritmia)
+- :fire: My LeetCode:  https://leetcode.com/kockono/, problems Solved in this repo [Algoritmia](https://github.com/kockono/Algoritmia)
 - :video_game: Hobbies: Make Clean Things, Games, Meditation, Listening Music
 - 🛠 Working: Me encuentro trabajando en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
 ### Back-end Front-end and Frameworks
