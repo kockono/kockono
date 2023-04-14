@@ -21,12 +21,9 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript"  height="27px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" height="27px" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
-<br />
-
 ### Mobile
 <a href="#"><img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 <a href="#"><img alt="Ionic" height="27px" src="https://img.shields.io/badge/Ionic-02569B.svg?logo=ionic&logoColor=white"></a>
-
 <br />
 
 ### Database
