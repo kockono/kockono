@@ -79,6 +79,6 @@
 
 <p align="left">
    <a  href="https://github.com/kockono/github-readme-streak-stats" title="Go to Source">
-    <img align=center width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="stats" />
+    <img align=center width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="stats" />
 </p>
     
