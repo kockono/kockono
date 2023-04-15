@@ -61,7 +61,10 @@
 [<img align="left" alt="kockono | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<codersrank-summary username="kockono"></codersrank-summary>](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono)
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 [website]: Construcción
 [linkedin]: https://www.linkedin.com/in/chris-marquez-cobos
