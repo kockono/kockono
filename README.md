@@ -8,6 +8,7 @@
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - :fire: My LeetCode:  https://leetcode.com/kockono/, problemas resueltos en este repositorio [Algoritmia](https://github.com/kockono/Algoritmia)
+- :🌟: My Code Rank: https://profile.codersrank.io/user/kockono/
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
 ### Back-end Front-end and Frameworks
@@ -73,11 +74,5 @@
     <img align="left" alt="kockono's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=kockono&count_private=true&show_icons=true&hide_border=true"/>
     <img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kockono&layout=compact&hide_border=true"/>
 </div>
-
-<!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
-<a href="https://profile.codersrank.io/user/kockono/"> 
-<img height="150px" width="220px"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px" />
-</a>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kockono)](https://git.io/streak-stats)
