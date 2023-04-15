@@ -76,7 +76,8 @@
 
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 <a href="https://profile.codersrank.io/user/kockono/"> 
-<img height="200px"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+<img height="150px" width="220px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px" />
 </a>
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kockono)](https://git.io/streak-stats)
