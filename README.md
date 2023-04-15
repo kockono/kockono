@@ -70,9 +70,15 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=kockono&column=7"/>
 
-<div>
+<p align="center">
     <img align="left" alt="kockono's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=kockono&count_private=true&show_icons=true&hide_border=true"/>
     <img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kockono&layout=compact&hide_border=true"/>
-</div>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kockono)](https://git.io/streak-stats)
+</p>
+
+<br />
+
+<p align="left">
+   <a  href="https://github.com/kockono/github-readme-streak-stats" title="Go to Source">
+    <img align=center width="76%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="stats" />
+</p>
+    
