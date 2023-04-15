@@ -79,5 +79,5 @@
 <img height="150px" width="220px"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px" />
 </a>
-  
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kockono)](https://git.io/streak-stats)
