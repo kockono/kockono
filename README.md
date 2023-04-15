@@ -54,9 +54,6 @@
     <a href="#"><img alt="Visual Studio Code"  height="27px"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <br />
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
-
 ### Contactos <!-- Contact me  -->
 
 <!-- [<img align="left" alt="kockono.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -79,3 +76,5 @@
 
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
