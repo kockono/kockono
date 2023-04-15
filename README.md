@@ -4,12 +4,12 @@
 
 ## Soy una persona apasionada en el mundo de la programación!!
 
-- **Achievements**
+- **Logros** <!-- **Achievements** -->
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - :fire: My LeetCode:  https://leetcode.com/kockono/, problemas resueltos en este repositorio [Algoritmia](https://github.com/kockono/Algoritmia)
-- :video_game: Hobbies: Make Clean Things, Games, Meditation, Listening Music
-- 🛠 Working: Me encuentro trabajando en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
+- :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
+- 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
 ### Back-end Front-end and Frameworks
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
@@ -34,7 +34,7 @@
 <img align="left" alt="FireBase" width="30px" src="https://miro.medium.com/max/400/1*JktK87FL_sqDDnuxHxe6Fw.png" />
 <br />
 
-### Other stuff I use
+### Otras cosas que manejo <!--  Other stuff I use -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
@@ -55,7 +55,7 @@
 
 <br />
 
-### Contact me
+### Contactos <!-- Contact me  -->
 
 <!-- [<img align="left" alt="kockono.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="kockono | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
