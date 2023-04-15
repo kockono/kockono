@@ -52,8 +52,10 @@
 <br />
 <a href="#"><img alt="Postman"  height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code"  height="27px"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-
 <br />
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kockono&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
 
 ### Contactos <!-- Contact me  -->
 
@@ -62,9 +64,7 @@
 
 <br />
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
 
 [website]: Construcción
 [linkedin]: https://www.linkedin.com/in/chris-marquez-cobos
