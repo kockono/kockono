@@ -11,6 +11,7 @@
 - 🌟 My Code Rank: https://profile.codersrank.io/user/kockono/
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
+
 ### Back-end Front-end and Frameworks
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
@@ -42,17 +43,16 @@
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
 <img align="" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
 
-<a href="https://github.com/search?q=user%kockono+language%3Abash"><img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<br />
-<img alt="Postman"  height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<img alt="Visual Studio Code"  height="27px"  align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+<img alt="Postman" align="left" height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+<img alt="Visual Studio Code" align="left" height="27px"   src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <br />
 
 ### Aprendiendo
 <img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
 
 <img align="left" alt="Rails" width="26x" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" />
-<img align="left" alt="Ionic" height="27px" src="https://img.shields.io/badge/Ionic-02569B.svg?logo=ionic&logoColor=white">
+<img align="left" alt="Ionic" height="27px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
