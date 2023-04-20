@@ -11,9 +11,8 @@
 - 🌟 My Code Rank: https://profile.codersrank.io/user/kockono/
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
-
-### Back-end Front-end and Frameworks
-``Click in any icon for see my code about the language``
+## Click in any icon for see my code
+### Back-end Front-end and Frameworks 
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
 
