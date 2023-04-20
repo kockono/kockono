@@ -25,8 +25,6 @@
 ### Mobile
 <a href="#"><img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 
-<br />
-
 ### Database
 <a href="#"><img alt="PostgreSQL" height="27px" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="MongoDb" height="27px" src="https://img.shields.io/badge/MongoDb-432.svg?logo=mongodb&logoColor=green"></a>
