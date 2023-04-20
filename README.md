@@ -1,4 +1,4 @@
-### Hi there, I'm Chris Cobos 👋 and we living in the Matrix. Soy una persona apasionada en el mundo de la programación!!
+### Hi there, I'm Chris Cobos 👋 and we living in the Matrix. Una persona apasionada en el mundo de la programación!!
 ![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/55373948/233380185-6be80427-3f3f-4df8-9d96-78605fcaccb5.gif)
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
