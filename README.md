@@ -1,11 +1,7 @@
-### Hola A Todos!   <!-- Hi there, I'm Chris Cobos 👋  -->
-<hr>
-
+### Hi there, I'm Chris Cobos 👋   Soy una persona apasionada en el mundo de la programación!!
 ![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/55373948/233380185-6be80427-3f3f-4df8-9d96-78605fcaccb5.gif)
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-
-## Soy una persona apasionada en el mundo de la programación!!
 
 - **Logros** <!-- **Achievements** -->
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
@@ -91,7 +87,3 @@
    <a  href="https://github.com/kockono/github-readme-streak-stats" title="Go to Source">
     <img align=center width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="stats" />
 </p>
-<p align="center">
-     <img align="" alt="Most used Languages"  src="https://user-images.githubusercontent.com/55373948/233374132-439f2def-808e-4196-af16-ef5e660b9e8c.gif"/>
-</p>
-
