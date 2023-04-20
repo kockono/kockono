@@ -87,6 +87,6 @@
    <a  href="https://github.com/kockono/github-readme-streak-stats" title="Go to Source">
     <img align=center width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="stats" />
 </p>
- <p align="center">
-![pato-el-cerdito-adios](https://user-images.githubusercontent.com/55373948/233374132-439f2def-808e-4196-af16-ef5e660b9e8c.gif)
+<p align="center">
+     <img align="" alt="Most used Languages"  src="https://user-images.githubusercontent.com/55373948/233374132-439f2def-808e-4196-af16-ef5e660b9e8c.gif"/>
 </p>
