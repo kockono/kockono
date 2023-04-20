@@ -1,4 +1,4 @@
-### Hi there, I'm Chris Cobos 👋 and we living in the Matrix. Una persona apasionada en el mundo de la programación!!
+### Hi there, I'm Chris Cobos 👋 and we living in the Matrix. Passionate person 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55373948/233384052-41238cf4-60f3-4cbc-b5a5-fd8e41bc2492.gif)
 
