@@ -89,5 +89,3 @@
 </p>
  
 ![pato-el-cerdito-adios](https://user-images.githubusercontent.com/55373948/233374132-439f2def-808e-4196-af16-ef5e660b9e8c.gif)
-
-https://media.tenor.com/6ZDbmBNp_tAAAAAC/pato-el-cerdito-adios.gif
