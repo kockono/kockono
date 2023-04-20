@@ -4,7 +4,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
-- **Logros** <!-- **Achievements** -->
+#### Achievements
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
 - :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - :fire: My LeetCode:  https://leetcode.com/kockono/, problemas resueltos en este repositorio 👉 [Algoritmia](https://github.com/kockono/Algoritmia) 👈
