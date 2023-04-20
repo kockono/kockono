@@ -16,8 +16,10 @@
 <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/>
-<!-- <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
+<a href="https://github.com/kockono?tab=repositories&q=Angular&type=&language=&sort=">
+  <img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/>
+</a>
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript"  height="27px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -59,7 +61,7 @@
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
-
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 
 ### Contactos <!-- Contact me  -->
