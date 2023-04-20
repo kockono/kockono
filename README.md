@@ -16,7 +16,7 @@
 <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
 
 <img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/>
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript"  height="27px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -54,7 +54,10 @@
 <a href="#"><img alt="Postman"  height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code"  height="27px"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <br />
+### Aprendiendo
+<img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
 
+<img align="left" alt="Rails" width="26x" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" />
 ### Contactos <!-- Contact me  -->
 
 <!-- [<img align="left" alt="kockono.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
