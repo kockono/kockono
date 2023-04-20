@@ -52,7 +52,7 @@
 <img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
 
 <img align="left" alt="Rails" width="26x" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" />
-<a href="#"><img alt="Ionic" height="27px" src="https://img.shields.io/badge/Ionic-02569B.svg?logo=ionic&logoColor=white"></a>
+<img alt="Ionic" height="27px" src="https://img.shields.io/badge/Ionic-02569B.svg?logo=ionic&logoColor=white">
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
