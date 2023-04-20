@@ -13,27 +13,52 @@
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
 ## Click on any icon to see my codes
 ### Back-end Front-end and Frameworks 
-<img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
-<img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
+
+<a href="">
+    <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
+</a>
+<a href="https://github.com/stars/kockono/lists/nodejs">
+    <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
+</a>
 
 <a href="https://github.com/kockono?tab=repositories&q=Angular&type=&language=&sort=">
-  <img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/>
+    <img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/>
 </a>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript"  height="27px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" height="27px" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript">
+    <img alt="JavaScript"  height="27px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+</a>
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript">
+    <img alt="TypeScript" height="27px" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+</a>
 
 ### Mobile
-<a href="#"><img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+<a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
+    <img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+</a>
 
 ### Database
-<a href="#"><img alt="PostgreSQL" height="27px" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="MongoDb" height="27px" src="https://img.shields.io/badge/MongoDb-432.svg?logo=mongodb&logoColor=green"></a>
-<img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="FireBase" width="30px" src="https://miro.medium.com/max/400/1*JktK87FL_sqDDnuxHxe6Fw.png" />
+<a href="#">
+    <img alt="PostgreSQL" height="27px" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    </a>
+<a href="#">
+    <img alt="MongoDb" height="27px" src="https://img.shields.io/badge/MongoDb-432.svg?logo=mongodb&logoColor=green">
+</a>
+
+<a href="">
+    <img align="left" alt="MySQL" width="40px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
+</a>
+<a href="">
+    <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
+</a>
+<a href="">
+    <img align="left" alt="FireBase" width="30px" src="https://miro.medium.com/max/400/1*JktK87FL_sqDDnuxHxe6Fw.png" />
+</a>
 <br />
 
 ### Otras cosas que manejo <!--  Other stuff I use -->
@@ -45,7 +70,9 @@
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
 <img align="" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
 
-<img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+<a href="https://github.com/kockono?tab=repositories&q=&type=&language=batchfile&sort=">
+    <img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+</a>
 <img alt="Postman" align="left" height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 <img alt="Visual Studio Code" align="left" height="27px"   src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <br />
