@@ -89,5 +89,4 @@
 </p>
 <p align="center">
      <img align="" alt="Most used Languages"  src="https://user-images.githubusercontent.com/55373948/233374132-439f2def-808e-4196-af16-ef5e660b9e8c.gif"/>
-     <img align="" alt="Most used Languages"  src="https://user-images.githubusercontent.com/55373948/233375600-ee771024-b01a-46bf-9a84-ad5a8cd41fa5.gif"/>
 </p>
