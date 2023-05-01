@@ -33,7 +33,7 @@
     <img alt="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
 </a>
 
-<a href="" style="margin-left: 20px;">
+<a href="">
     <img alt="left"  width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </a>
 
