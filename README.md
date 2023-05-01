@@ -29,11 +29,11 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript">
-    <img alt="left" width="26px"src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
+<a href="">
+    <img alt="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
 </a>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript">
+<a href="" style="margin-left: 20px;">
     <img alt="left"  width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </a>
 
