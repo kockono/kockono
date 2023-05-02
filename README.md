@@ -14,6 +14,11 @@
 ## Click on any icon to see my codes
 ### Back-end Front-end and Frameworks 
 
+
+<a href="">
+    <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
+</a>
+
 <a href="">
     <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 </a>
