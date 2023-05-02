@@ -20,7 +20,7 @@
 </a>
 
 <a href="">
-    <img align="left" alt="Dart" width="26px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" />
+    <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 </a>
 
 <a href="">
