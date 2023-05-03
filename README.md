@@ -72,9 +72,6 @@
 <br />
 
 ### Otras cosas que manejo <!--  Other stuff I use -->
-<a href="https://github.com/stars/kockono/lists/visual-studio-code">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
 
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
@@ -87,7 +84,7 @@
     <img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 </a>
 <img alt="Postman" align="left" height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<a href="https://github.com/stars/kockono/lists/terminal-bash">
+<a href="https://github.com/stars/kockono/lists/visual-studio-code">
     <img alt="Visual Studio Code" align="left" height="27px"   src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </a>
 
