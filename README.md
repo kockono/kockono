@@ -72,7 +72,7 @@
 <br />
 
 ###  Other stuff I use 
-<a href="https://github.com/kockono/Docker-Dbs-Sql-NoSql-Configuration">
+<a href="https://github.com/stars/kockono/lists/docker">
     <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 </a>
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
