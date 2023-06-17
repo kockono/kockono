@@ -50,7 +50,7 @@
 ### Learning Dev-Ops
 
 <a href="">
-    <img  align="left" alt="AWS"  width="26px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+    <img  align="left" alt="AWS"  width="36px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
 </a>
 
 <a href="">
