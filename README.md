@@ -12,8 +12,8 @@
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
 ## Click on any icon to see my codes
-### Back-end Front-end and Frameworks 
 
+### Back-end Front-end and Frameworks 
 
 <a href="">
     <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
@@ -46,6 +46,33 @@
     <img  align="left" alt="Typescript"  width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </a>
 <br />
+### Learning Dev-Ops
+
+<a href="">
+    <img  align="left" alt="AWS"  width="26px" src="https://miro.medium.com/v2/resize:fit:1400/1*b_al7C5p26tbZG4sy-CWqw.png">
+</a>
+
+<a href="">
+    <img  align="left" alt="Sonnar-Cloud"  width="26px" src="https://pbs.twimg.com/profile_images/955394530806829056/LC7DAYM3_400x400.jpg">
+</a>
+
+<a href="">
+    <img  align="left" alt="Actions"  width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
+</a>
+
+<a href="https://github.com/stars/kockono/lists/docker">
+    <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
+</a>
+
+<a href="">
+    <img  align="left" alt="Terraform"  width="26px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
+</a>
+
+<a href="">
+    <img  align="left" alt="Kubernates"  width="26px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
+</a>
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ### Mobile
 <a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
@@ -71,13 +98,13 @@
 </a>
 <br />
 
+
+
 ###  Other stuff I use 
-<a href="https://github.com/stars/kockono/lists/docker">
-    <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
-</a>
+
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
 <img align="" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
 
@@ -111,8 +138,6 @@
 [<img align="left" alt="kockono | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-
 
 [website]: Construcción
 [linkedin]: https://www.linkedin.com/in/chris-marquez-cobos
