@@ -50,7 +50,7 @@
 ### Learning Dev-Ops
 
 <a href="">
-    <img  align="left" alt="AWS"  width="66px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+    <img  align="left" alt="AWS"  width="56px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
 </a>
 
 <a href="">
@@ -66,14 +66,15 @@
 </a>
 
 <a href="">
-    <img  align="left" alt="Terraform"  width="26px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
+    <img  align="left" alt="Terraform"  width="30px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
 </a>
 
 <a href="">
-    <img  align="left" alt="Kubernates"  width="26px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
+    <img  align="left" alt="Kubernates"  width="30px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
 </a>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
 
 ### Mobile
 <a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
