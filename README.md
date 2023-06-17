@@ -66,11 +66,23 @@
 </a>
 
 <a href="">
-    <img  align="left" alt="Terraform"  width="30px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
+    <img  align="left" alt="Terraform"  width="32px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
 </a>
 
 <a href="">
     <img  align="left" alt="Kubernates"  width="30px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
+</a>
+
+<a href="">
+    <img  align="left" alt="NgInx"  width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3628948-3030173.png">
+</a>
+
+<a href="">
+    <img  align="left" alt="Prometheus"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png">
+</a>
+
+<a href="">
+    <img  align="left" alt="Ansible"  width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ansible_icon_132595.png">
 </a>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
