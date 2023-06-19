@@ -132,7 +132,7 @@
 
 <br />
 
-### Aprendiendo
+### Learning other stuff
 <a href="https://github.com/kockono?tab=repositories&q=Ruby&type=&language=&sort=">
 <img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
 </a>
