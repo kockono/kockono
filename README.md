@@ -10,7 +10,7 @@
 - <img  alt="leetcode"  width="15px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp"> My LeetCode:  https://leetcode.com/kockono/, problemas resueltos en este repositorio 👉 [Algoritmia](https://github.com/kockono/Algoritmia) 👈
 - 🌟 My Code Rank: https://profile.codersrank.io/user/kockono/
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
-- 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Ruby & Rails
+- 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular-Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y [Ruby-&-Rails](https://github.com/kockono/Ruby-Rails-Clean)
 ## Click on any icon to see my codes
 
 ### Back-end Front-end and Frameworks 
