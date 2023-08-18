@@ -42,7 +42,7 @@
     <img align="left"  alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/typescript">
     <img  align="left" alt="Typescript"  width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </a>
 <br />
