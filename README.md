@@ -6,7 +6,7 @@
 
 ### Achievements
 - 🥅 2021: Mudanza de un gran proyecto de Hospital elaborado en visual basic/Oracle/Java ==> Angular/.Net/PostgreSql
-- :star: 2022: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
+- :star: 2022-2023: Ecommerce [Mexemarket](https://mexemarket.com.mx/) 
 - <img  alt="leetcode"  width="15px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp"> My LeetCode:  https://leetcode.com/kockono/, problemas resueltos en este repositorio 👉 [**Algoritmia**](https://github.com/kockono/Algoritmia) 👈
     -  Easy 12/709 - Medium 2/1500  - Hard 0/622 
 - 🌟 My Code Rank: https://profile.codersrank.io/user/kockono/
