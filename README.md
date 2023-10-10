@@ -14,7 +14,7 @@
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y [Ruby & Rails](https://github.com/kockono/Ruby-Rails-Clean)
 ## Click on any icon to see my codes
 
-### Back-end Front-end and Frameworks 
+### Back-end Front-end
 
 <a href="">
     <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
@@ -27,6 +27,11 @@
 <a href="">
     <img align="left" alt=".NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 </a>
+
+<a href="https://github.com/kockono?tab=repositories&q=&type=&language=python&sort=">
+    <img align="left"  alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
+</a>
+
 <a href="https://github.com/stars/kockono/lists/nodejs">
     <img align="left" alt="Node.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
 </a>
@@ -41,10 +46,6 @@
 </a>
 <a href="https://github.com/kockono?tab=repositories&q=&type=&language=javascript&sort=">
     <img align="left"  alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
-</a>
-
-<a href="https://github.com/kockono?tab=repositories&q=&type=&language=python&sort=">
-    <img align="left"  alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
 </a>
 
 <a href="https://github.com/stars/kockono/lists/typescript">
