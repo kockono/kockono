@@ -43,6 +43,10 @@
     <img align="left"  alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
 </a>
 
+<a href="https://github.com/kockono?tab=repositories&q=&type=&language=python&sort=">
+    <img align="left"  alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
+</a>
+
 <a href="https://github.com/stars/kockono/lists/typescript">
     <img  align="left" alt="Typescript"  width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </a>
