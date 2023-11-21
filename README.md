@@ -135,16 +135,21 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
+
 <a href="https://github.com/kockono/Angular-Clean/blob/main/karma.conf.ts">
-    <img align="" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
+    <img align="left" alt="Karma" width="28x" src="https://i.blogs.es/bba3ba/jasminekarmaspoke1/1366_2000.png" />
+</a>
+
+<a href="https://github.com/stars/kockono/lists/visual-studio-code">
+    <img alt="Visual Studio Code" align="left" height="27px"   src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+</a>
+
+<a href="https://github.com/stars/kockono/lists/visual-studio-code">
+    <img alt="Postman" align="left" height="27px" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a>
 
 <a href="https://github.com/stars/kockono/lists/terminal-bash">
     <img alt="Bash" align="left" height="27px" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-</a>
-<img alt="Postman" align="left" height="27px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<a href="https://github.com/stars/kockono/lists/visual-studio-code">
-    <img alt="Visual Studio Code" align="left" height="27px"   src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </a>
 
 <br />
