@@ -96,6 +96,11 @@
 </a>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<a href="">
+    <img  align="left" alt="Vim"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png">
+</a>
+
 <br />
 
 ### Mobile
@@ -154,7 +159,7 @@
 <img align="left" alt="Ionic" height="27px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Redux" width="26px" src="http://nightdeveloper.net/wp-content/uploads/2018/01/logo.png" />
+<img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 
