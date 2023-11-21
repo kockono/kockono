@@ -14,7 +14,7 @@
 - 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y [Ruby & Rails](https://github.com/kockono/Ruby-Rails-Clean)
 ## Click on any icon to see my codes
 
-### Back-end Front-end
+### Back-end Front-end I Use
 
 <a href="">
     <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
@@ -130,7 +130,6 @@
 
 
 ###  Other stuff I use 
-
 <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 
@@ -154,7 +153,7 @@
 
 <br />
 
-### Learning other stuff
+### Things I would like to learn
 <a href="https://github.com/kockono?tab=repositories&q=Ruby&type=&language=&sort=">
 <img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
 </a>
