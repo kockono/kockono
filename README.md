@@ -130,7 +130,11 @@
 
 
 ###  Other stuff I use 
-<img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
+
+<a href="https://gist.github.com/kockono/98f5813b5ab91eca39b10ed1b9163fa2">
+    <img align="left" alt="Rxjs" width="26px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
+</a>
+
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 
 <img align="left" alt="Jasmine" width="26x" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
