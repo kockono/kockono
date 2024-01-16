@@ -55,7 +55,7 @@
 
 ### Learning Dev-Ops
 
-<a href="href="https://github.com/stars/kockono/lists/Aws"">
+<a href="https://github.com/stars/kockono/lists/Aws">
     <img  align="left" alt="AWS"  width="56px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
 </a>
 
