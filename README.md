@@ -55,15 +55,15 @@
 
 ### Learning Dev-Ops
 
-<a href="">
+<a href="href="https://github.com/stars/kockono/lists/Aws"">
     <img  align="left" alt="AWS"  width="56px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/Sonnarqube">
     <img  align="left" alt="Sonnar-Cloud"  width="26px" src="https://pbs.twimg.com/profile_images/955394530806829056/LC7DAYM3_400x400.jpg">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/Actions">
     <img  align="left" alt="Actions"  width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
 </a>
 
@@ -71,11 +71,11 @@
     <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/Terraform">
     <img  align="left" alt="Terraform"  width="32px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/kubernates">
     <img  align="left" alt="Kubernates"  width="30px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
 </a>
 
