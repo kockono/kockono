@@ -165,7 +165,7 @@
     <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
 </a>
 <a href="">
-    <img align="left" alt="Kafka" width="26px" src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" />
+    <img align="left" alt="Kafka" width="50px" src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" />
 </a>
 <a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
     <img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
