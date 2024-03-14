@@ -17,7 +17,7 @@
 ### Back-end Front-end I Use
 
 <a href="https://github.com/kockono?tab=repositories&q=&type=&language=go%23&sort=">
-    <img align="left" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
+    <img align="left" alt="Go" width="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
 </a>
 
 <a href="https://github.com/kockono?tab=repositories&q=&type=&language=c%23&sort=">
