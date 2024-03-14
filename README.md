@@ -104,9 +104,8 @@
 <br />
 
 ### Mobile
-<a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
-    <img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
-</a>
+<img align="left" alt="Ionic" height="27px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
+
 
 ### Database
 <a href="#">
@@ -158,13 +157,18 @@
 <br />
 
 ### Things I would like to learn
-<img align="left" alt="Ionic" height="27px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <a href="">
     <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
+</a>
+<a href="">
+    <img align="left" alt="Kafka" width="26px" src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" />
+</a>
+<a href="https://github.com/kockono?tab=repositories&q=flutter&type=&language=&sort=">
+    <img alt="Flutter" height="27px" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
 </a>
 <br />
 
