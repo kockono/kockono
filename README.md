@@ -16,8 +16,8 @@
 
 ### Back-end Front-end I Use
 
-<a href="">
-    <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
+<a href="https://github.com/kockono?tab=repositories&q=&type=&language=go%23&sort=">
+    <img align="left" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
 </a>
 
 <a href="https://github.com/kockono?tab=repositories&q=&type=&language=c%23&sort=">
@@ -158,17 +158,14 @@
 <br />
 
 ### Things I would like to learn
-<a href="https://github.com/kockono?tab=repositories&q=Ruby&type=&language=&sort=">
-<img align="left" alt="Ruby" width="26x" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" />
-</a>
-<a href="https://github.com/kockono?tab=repositories&q=Ruby&type=&language=&sort=">
-    <img align="left" alt="Rails" width="26x" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" />
-</a>
 <img align="left" alt="Ionic" height="27px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 <img align="left" alt="Cypress" width="26x" src="https://media-asgard.s3.eu-west-1.amazonaws.com/5c0f3742-3c2f-4f5e-807d-97edb94a283e_Cypress_icon.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<a href="">
+    <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
+</a>
 <br />
 
 ### Contactos <!-- Contact me  -->
