@@ -106,6 +106,7 @@
 ### Mobile
 <img align="left" alt="Ionic" height="27px" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 
+<br />
 
 ### Database
 <a href="#">
