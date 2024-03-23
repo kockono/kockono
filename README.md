@@ -11,7 +11,7 @@
     -  Easy 14/713 - Medium 2/1507  - Hard 0/623 
 - 🌟 My Code Rank: https://profile.codersrank.io/user/kockono/
 - :video_game: Hobbies: Videojuegos, Meditación, Escuchar Musica, Estudiar  <!-- Make Clean Things, Games, Meditation, Listening Music -->
-- 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y [Ruby & Rails](https://github.com/kockono/Ruby-Rails-Clean)
+- 🛠 Working: Me encuentro trabajando en la explicación de como lograr una arquitectura y programación limpia en [Angular Clean](https://github.com/kockono/Angular-Clean) y mas adelante en NodeJs, .NetCore Y Golang
 ## Click on any icon to see my codes
 
 ### Back-end Front-end I Use
