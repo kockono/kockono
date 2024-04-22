@@ -79,11 +79,11 @@
     <img  align="left" alt="Kubernates"  width="30px" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/NgInx">
     <img  align="left" alt="NgInx"  width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3628948-3030173.png">
 </a>
 
-<a href="">
+<a href="https://github.com/stars/kockono/lists/Prometheus">
     <img  align="left" alt="Prometheus"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png">
 </a>
 
