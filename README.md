@@ -149,7 +149,7 @@ Resolví y documenté el problema de instalación de hooks en Windows para uno d
 | 🏗️ Clean Code & Arquitectura Limpia | 2023 |
 | 🐳 Docker Mastery — B. Fisher | 2024 |
 | 🐍 PCAP: Python Programming Essentials — Cisco | 2021 |
-| ⚡ ReactiveX / RxJS — Udemy | — |
+| ⚡ ReactiveX / RxJS — Udemy | 2021 |
 
 ---
 
