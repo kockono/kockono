@@ -139,10 +139,9 @@ Alertas en tiempo real para **200+ sitios** con reducción del **40% en tiempo d
 
 **[Discussion #1212](https://github.com/rtk-ai/rtk/discussions/1212)** · April 2026
 
-Resolví y documenté el problema de instalación de hooks en Windows para uno de los CLI tools de IA más populares del ecosistema:
+Resolví y documenté el problema de instalación de hooks en Windows que originalmente era imposible utilizarlo en Windows 10 y 11 para el uso de IA:
 - ✅ 3 soluciones documentadas: Git Bash, PowerShell nativo y WSL2
 - 🦀 Propuesta de implementación nativa en Rust con detección automática de entorno Windows como feature request oficial
-
 ---
 
 ## 📜 Certifications
