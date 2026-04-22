@@ -26,7 +26,7 @@
 - 🦀 Construyendo **[Codex-Snabb](https://github.com/kockono/Codex-Snabb)** — IDE TUI en Rust con arquitectura **RAM/CPU-first**
 - 🔭 Trabajando en sistemas de gestión empresarial con **Angular + Go + PostgreSQL**
 - 🤖 Orquestando agentes de IA para automatización de workflows reales
-- ✍️ Technical writing en Open Source — guía de instalación Windows para [RTK AI CLI Tool](https://github.com/rtk-ai/rtk)
+- ✍️ Technical writing en Open Source — guía de instalación Windows para **[RTK AI CLI Tool](https://github.com/rtk-ai/rtk)**
 - 🏗️ Clean Architecture, Hexagonal Architecture, SOLID, DDD
 - 📍 México | 🌐 Inglés B2
 
