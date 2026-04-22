@@ -1,30 +1,27 @@
-<h1 align="center">Hey, I'm Chris Marquez 👋</h1>
-<h3 align="center">Full Stack Developer · DevOps · AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55373948/233384052-41238cf4-60f3-4cbc-b5a5-fd8e41bc2492.gif" width="600" alt="matrix gif"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=640&lines=Chris+Cobos;Full+Stack+%C2%B7+DevOps+%C2%B7+AI+Engineer" alt="Chris Cobos — Full Stack · DevOps · AI Engineer" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chris-marquez-cobos">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chris.ajna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/kockono">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/kockono">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**`Angular` · `Go` · `.NET` · `Rust` · `PostgreSQL` · `Kubernetes` · `AI Orchestration`**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/55373948/233384052-41238cf4-60f3-4cbc-b5a5-fd8e41bc2492.gif" width="600" alt="matrix gif"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/chris-marquez-cobos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chris.ajna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/kockono"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/kockono"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Ingeniero en Software con **5+ años** de experiencia como Full Stack Developer, especializado en diseño de soluciones escalables, APIs robustas y despliegue en entornos productivos con **Docker & Kubernetes**. Apasionado por la arquitectura limpia, la automatización CI/CD y la integración de **Inteligencia Artificial** en flujos reales de desarrollo.
+**Full Stack Engineer** con **5+ años** de experiencia en soluciones escalables, APIs robustas y despliegue productivo.
 
 - 🦀 Construyendo **[Codex-Snabb](https://github.com/kockono/Codex-Snabb)** — IDE TUI en Rust con arquitectura **RAM/CPU-first**
 - 🔭 Trabajando en sistemas de gestión empresarial con **Angular + Go + PostgreSQL**
@@ -40,19 +37,15 @@ Ingeniero en Software con **5+ años** de experiencia como Full Stack Developer,
 > En 2026, saber usar IA no es diferencial — saber **orquestarla** sí lo es.
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_4.6-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT--5.4-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-| Capacidad | Detalle |
-|---|---|
-| 🧠 **Orquestación de Agentes** | Diseño de flujos multi-agente con delegación asíncrona |
-| 🔗 **MCP / Skills** | Integración de herramientas externas vía Model Context Protocol |
-| 🤖 **Sub-Agentes especializados** | Agentes con roles específicos (spec, design, apply, verify) |
-| 📋 **SDD (Spec-Driven Dev)** | Desarrollo dirigido por especificaciones con persistencia en Engram |
-| 🛠️ **AI en producción** | Automatización real de tareas de desarrollo con Claude + OpenCode |
+- 🔗 **MCP / Skills** — integración de herramientas externas vía Model Context Protocol en flujos de desarrollo diarios
+- 📋 **Spec-Driven Development** — ciclo `proposal → specs → design → tasks → apply → verify` con sub-agentes especializados
+- 🛠️ **AI en producción** — automatización de tareas de desarrollo con Claude + OpenCode, sobre código real
 
 ---
 
@@ -182,48 +175,33 @@ Diagnóstico y documentación del problema de instalación de hooks en Windows p
 
 ---
 
-## 📜 Certifications
+## 📜 Courses & Continuous Learning
 
-| Certificación | Año |
+### Official Certifications
+
+| Certificación | Emisor | Año |
+|---|---|---|
+| 🐍 PCAP — Python Programming Essentials | Cisco Networking Academy | 2021 |
+
+### Courses
+
+| Curso | Año |
 |---|---|
-| 🎓 Git + GitHub — F. Herrera | 2023 |
 | 🏗️ Clean Code & Arquitectura Limpia | 2023 |
 | 🐳 Docker Mastery — B. Fisher | 2024 |
-| 🐍 PCAP: Python Programming Essentials — Cisco | 2021 |
+| 🎓 Git + GitHub — F. Herrera | 2023 |
 | ⚡ ReactiveX / RxJS — Udemy | 2021 |
 
 ---
 
 ## 📈 GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=kockono&column=7&theme=flat&no-frame=true"/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kockono&count_private=true&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kockono&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=kockono&theme=white&border=61dafb&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=kockono&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chris-marquez-cobos">
-    <img src="https://img.shields.io/badge/LinkedIn-Chris_Marquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:chris.ajna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chris.ajna@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/kockono">
-    <img src="https://img.shields.io/badge/LeetCode-kockono-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 <p align="center">
   <i>⚡ "La arquitectura limpia no es un lujo — es la diferencia entre código que escala y código que se quema."</i>
