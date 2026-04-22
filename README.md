@@ -26,9 +26,10 @@
 
 Ingeniero en Software con **5+ años** de experiencia como Full Stack Developer, especializado en diseño de soluciones escalables, APIs robustas y despliegue en entornos productivos con **Docker & Kubernetes**. Apasionado por la arquitectura limpia, la automatización CI/CD y la integración de **Inteligencia Artificial** en flujos reales de desarrollo.
 
-- 🔭 Actualmente trabajando en sistemas de gestión empresarial con **Angular + Go + PostgreSQL**
+- 🦀 Construyendo **[Codex-Snabb](https://github.com/kockono/Codex-Snabb)** — IDE TUI en Rust con arquitectura **RAM/CPU-first**
+- 🔭 Trabajando en sistemas de gestión empresarial con **Angular + Go + PostgreSQL**
 - 🤖 Orquestando agentes de IA para automatización de workflows reales
-- 🌱 Contribuidor Open Source — RTK AI CLI Tool (**★ 23.5k**)
+- ✍️ Technical writing en Open Source — guía de instalación Windows para RTK AI CLI Tool
 - 🏗️ Clean Architecture, Hexagonal Architecture, SOLID, DDD
 - 📍 México | 🌐 Inglés B2
 
@@ -110,38 +111,74 @@ Ingeniero en Software con **5+ años** de experiencia como Full Stack Developer,
 
 ---
 
+## 🦀 Currently Building — Codex-Snabb
+
+> **IDE TUI en Rust con una restricción NO negociable: RAM/CPU first.**
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-2024-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/ratatui-TUI-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tokio-async_runtime-5C7E8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tree--sitter-incremental_parsing-3A7BC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-in_development-yellow?style=for-the-badge" />
+</p>
+
+**Repo →** [`kockono/Codex-Snabb`](https://github.com/kockono/Codex-Snabb)
+
+Experiencia estilo IDE (editor central, explorer, panel inferior, command palette `Ctrl+P`) llevada a la terminal sin el costo de un entorno gráfico pesado. **Performance y predictibilidad como requisitos de diseño, no como afterthought.**
+
+### Decisiones técnicas destacables
+
+- 🧩 **Arquitectura event-loop explícita** — `input → Action → reducer/store → Effects → workers → Event → invalidation → render`
+- 📊 **Budgets medibles** de memoria, CPU y latencia desde el diseño (no post-optimización)
+- ⚡ **Parsing incremental** con tree-sitter (<1ms por keystroke) + syntect como fallback automático
+- 🔀 **Runtime async** con tokio + `portable-pty` para terminal integrada real
+- 🦀 Edition 2024 · `anyhow`/`thiserror` para error handling disciplinado · `tracing` para observabilidad
+
+### Syntax highlighting
+
+**Tree-sitter nativo:** `Rust` `TypeScript` `Go` `JSON` `CSS` `Bash`
+**Syntect fallback:** `Python` `JavaScript` `C/C++` `HTML` `TOML` `YAML` `Markdown`
+
+---
+
 ## 🚀 Featured Projects
 
+> Los proyectos a continuación son desarrollos empresariales bajo contrato — código propietario disponible para revisión bajo NDA durante el proceso de entrevista.
+
 ### 🍽️ Sistema de Gestión de Restaurantes
-`Angular` `Node.js` `PostgreSQL` `Docker`
+`Angular` `Node.js` `PostgreSQL` `Docker` · 🔒 Propietario · NDA
 
 Plataforma completa con módulos de pedidos en tiempo real, control de mesas, inventario y reportes con exportación a Excel. REST API con JWT y despliegue containerizado.
 
 ---
 
 ### 📊 Sistema de Presupuestos FECHAC
-`Angular` `Go` `PostgreSQL` `ExcelJS`
+`Angular` `Go` `PostgreSQL` `ExcelJS` · 🔒 Propietario · NDA
 
 Automatización de gestión presupuestal para proyectos sociales de la Fundación del Empresariado Chihuahuense. Reportes dinámicos, KPIs y filtros avanzados.
 
 ---
 
 ### 🔒 Plataforma de Monitoreo de Seguridad — Analytics360
-`.NET Core` `Angular` `PostgreSQL` `Kubernetes` `Tableau`
+`.NET Core` `Angular` `PostgreSQL` `Kubernetes` `Tableau` · 🔒 Propietario · NDA
 
-Alertas en tiempo real para **200+ sitios** con reducción del **40% en tiempo de respuesta**. Dashboards Tableau con SQL avanzado (JOINs, subconsultas, vistas materializadas).
+Sistema de alertas en tiempo real para monitoreo de **200+ sitios** distribuidos. Ownership del pipeline de ingesta de eventos y del diseño de queries SQL (JOINs, subconsultas, vistas materializadas) que habilitaron reducción medida del **40% en tiempo de respuesta** ante incidentes vs. línea base histórica.
 
 ---
 
-## 🌍 Open Source Contributions
+## ✍️ Technical Writing & Community
 
-### [RTK — AI CLI Tool](https://github.com/rtk-ai/rtk) ★ 23.5k
+### RTK — AI CLI Tool · Windows Install Guide
 
-**[Discussion #1212](https://github.com/rtk-ai/rtk/discussions/1212)** · April 2026
+**[Discussion #1212](https://github.com/rtk-ai/rtk/discussions/1212)** · Abril 2026
 
-Resolví y documenté el problema de instalación de hooks en Windows para uno de los CLI tools de IA más populares del ecosistema:
-- ✅ 3 soluciones documentadas: Git Bash, PowerShell nativo y WSL2
-- 🦀 Propuesta de implementación nativa en Rust con detección automática de entorno Windows como feature request oficial
+Diagnóstico y documentación del problema de instalación de hooks en Windows para [RTK AI CLI Tool](https://github.com/rtk-ai/rtk), aportando tres rutas verificadas de resolución a la comunidad:
+
+- ✅ **Git Bash** — flujo recomendado para usuarios sin WSL
+- ✅ **PowerShell nativo** — sin dependencias adicionales
+- ✅ **WSL2** — entorno Linux completo para desarrollo
+- 🦀 **Feature request:** implementación nativa en Rust con detección automática del entorno Windows
 
 ---
 
