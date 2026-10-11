@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-**Full Stack Engineer** con **5+ años** de experiencia en soluciones escalables, APIs robustas y despliegue productivo.
+**Full Stack Engineer** con **6+ años** de experiencia en soluciones escalables, APIs robustas y despliegue productivo.
 
 - 🦀 Construyendo **[Codex-Snabb](https://github.com/kockono/Codex-Snabb)** — IDE TUI en Rust con arquitectura **RAM/CPU-first**
 - 🔭 Trabajando en sistemas de gestión empresarial con **Angular + Go + PostgreSQL**
